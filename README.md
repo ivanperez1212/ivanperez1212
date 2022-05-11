@@ -4,4 +4,4 @@ I'm a Full Stack Developer in Angular,React and Node.js
 
 ### Skills: ###
 * * ** * ** * ** * *
-![Angular](https://img.shields.io/badge=logo=Angular&style=for-the-badge)
+![Angular](https://img.shields.io/badge?style=for-the-badge&logo=appveyo)
