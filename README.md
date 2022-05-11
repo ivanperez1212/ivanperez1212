@@ -3,4 +3,4 @@
 I'm a Full Stack Developer in Angular,React and Node.js
 
 ### Skills
-![Angular](?style=for-the-badge&=appveyor)
+![Angular]( ?style=for-the-badge&logo=appveyor)
