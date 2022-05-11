@@ -2,4 +2,4 @@
 
 I'm a Full Stack Developer in Angular,React and Node.js
 
-?style=for-the-badge&logo=appveyor
+[?style=for-the-badge&logo=appveyor]
