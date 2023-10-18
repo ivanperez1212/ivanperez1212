@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Ivan Perez</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 Trabaje como freelance para empresa de seguridad privada [Control de personal-Nomina](https://effervescent-valkyrie-5e6f3e.netlify.app)
+- 🔭 Trabaje como Encargado de Sistemas para empresa de seguridad privada [Control de personal-Nomina]
 
 - 🌱 Actualmente estoy especializándome en **Angular**
 
